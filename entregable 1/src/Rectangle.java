@@ -11,7 +11,7 @@ public class Rectangle extends Figura {
         return base;
     }
 
-    public void Rectangle(float altura, float base) {
+    public  Rectangle(float altura, float base) {
         this.altura = altura;
         this.base = base;
     }
